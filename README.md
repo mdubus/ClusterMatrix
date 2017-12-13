@@ -66,6 +66,7 @@ The constraint was to code the software on a PIC32MX. The Raspberry Pi is only h
 - Shift Register Serial / Parallel
 - Voltage Regulator
 - Pic 32MX
+- ...
 
 ## How it works
 
