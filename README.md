@@ -31,6 +31,11 @@ For example, if 4 students wants to work with each other they can press the butt
 - Orange : this place is available but there isn't 3 other places available next to it. This place is not recommended
 - Red : this place is unavailable
 
+### Moving led
+
+A led is walking around the clusters, to show us if the information is up-to-date. 
+If the led is green, the information is up-to-date. If it's orange, it is not. 
+
 ### Bonus
 
 - loading screen
