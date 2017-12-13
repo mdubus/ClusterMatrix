@@ -41,7 +41,7 @@ If the led is green, the information is up-to-date. If it's orange, it is not.
 
 ### Bonus
 
-- loading screen
+- Loading screen
 - 'Konami Code' (enable a specific effect)
 - A dip switch allows us to select a current cluster or to switch between the clusters every 30seconds
 
@@ -80,3 +80,5 @@ The constraint was to code the software on a PIC32MX. The Raspberry Pi is only h
 ## Final Mark
 
 `121 / 100`
+
+And the satisfaction to have made from start to end a product used every day by the students :)
